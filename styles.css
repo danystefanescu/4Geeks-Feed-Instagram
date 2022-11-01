@@ -1,0 +1,49 @@
+* {
+	font-family: sans-serif;
+}
+
+
+body {
+	background: #eee;
+	margin: 0 auto;
+}
+
+header {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background: white;
+	text-align: center;
+}
+.contenedor {
+	background: rgb(220,220,220);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hijo {
+	background: white;
+	margin-top: 40px;
+	margin-bottom: 80px;
+	padding-top: 5px;
+	padding-bottom: 30px;
+	width: 450px;
+	height: 450px;
+	border-radius: 1%;
+}
+
+.h2-hijo {
+	display: block;
+	margin-top: 5px;
+	border-bottom: 1px solid #eee;
+
+}
+
+img {
+	height: 350px;
+	width: 450px;
+}
+
+p {
+	border-top: 1px solid #eee;
+	padding-bottom: 3px;
+}
